@@ -5,8 +5,6 @@
 - 💞️ I’m looking to collaborate on innovative full-stack projects, system management apps, or game logic systems.
 - 📫 How to reach me:  
   📧 Email: tharindukaveeshaperera9216@gmail.com  
-  💼 LinkedIn: [linkedin.com/in/tharindu9216](www.linkedin.com/in/tharindu-perera-23820b286)  
-  🖥️ Portfolio: [tharindu-dev.web.app](https://tharindu-dev.web.app)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: While I appreciate good design, I’m most excited when I’m deep in code—building systems, solving logic puzzles, or optimizing app performance. Whether it’s crafting REST APIs, structuring backend logic, or bringing game mechanics to life, development is where I thrive. I'm a builder at heart!
 
